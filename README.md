@@ -70,4 +70,4 @@ I am a motivated Software Engineer based in **Rawalpindi/Islamabad, Pakistan**, 
 * 🔗 **LinkedIn:** www.linkedin.com/in/faiq-mir-se03
 * 🌐 **Tableau Public:** [View My Portfolio](https://public.tableau.com/app/profile/faiq.mir/viz/HrAnalyticsDashboard)
 
-![Faiq's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=radical)
+![Faiq's GitHub stats](https://github-readme-stats.vercel.app/api?username=faiqmir&show_icons=true&theme=radical)
