@@ -72,7 +72,6 @@
               <img src="https://github-readme-activity-graph.vercel.app/graph?username=faiqmir&bg_color=transparent&color=2aa889&line=599cab&point=99d1ce&area=true&hide_border=true&hide_title=true" width=823/>
             </td>
         </table>
-        
         </div> 
         <div align="center">
                 <samp>
@@ -80,12 +79,10 @@
                 </samp>
                 <a href="mailto:faiqmir03@gmail.com" target="_blank"><img alt="Mail"
                         src="https://img.shields.io/badge/-Mail-EA4335?style=flat-square&logo=gmail&logoColor=white">
-                </a>
-                
+                </a>          
                 <a href="https://public.tableau.com/app/profile/faiq.mir/viz/HrAnalyticsDashboard" target="_blank"><img alt="Tableau"
                         src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white">
                 </a>
-
                 <a href="https://www.linkedin.com/" target="_blank"><img alt="Linkedin"
                         src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff">
                 </a>
